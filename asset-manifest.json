@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "//the1kaku.github.io/csgosite/static/css/main.18d8ca95.chunk.css",
-    "main.js": "//the1kaku.github.io/csgosite/static/js/main.ad6af49f.chunk.js",
-    "main.js.map": "//the1kaku.github.io/csgosite/static/js/main.ad6af49f.chunk.js.map",
+    "main.css": "//the1kaku.github.io/csgosite/static/css/main.140e0265.chunk.css",
+    "main.js": "//the1kaku.github.io/csgosite/static/js/main.38752a15.chunk.js",
+    "main.js.map": "//the1kaku.github.io/csgosite/static/js/main.38752a15.chunk.js.map",
     "runtime-main.js": "//the1kaku.github.io/csgosite/static/js/runtime-main.ccb2863f.js",
     "runtime-main.js.map": "//the1kaku.github.io/csgosite/static/js/runtime-main.ccb2863f.js.map",
     "static/js/2.702bb801.chunk.js": "//the1kaku.github.io/csgosite/static/js/2.702bb801.chunk.js",
@@ -10,10 +10,10 @@
     "static/js/3.98e7ef38.chunk.js": "//the1kaku.github.io/csgosite/static/js/3.98e7ef38.chunk.js",
     "static/js/3.98e7ef38.chunk.js.map": "//the1kaku.github.io/csgosite/static/js/3.98e7ef38.chunk.js.map",
     "index.html": "//the1kaku.github.io/csgosite/index.html",
-    "static/css/main.18d8ca95.chunk.css.map": "//the1kaku.github.io/csgosite/static/css/main.18d8ca95.chunk.css.map",
+    "static/css/main.140e0265.chunk.css.map": "//the1kaku.github.io/csgosite/static/css/main.140e0265.chunk.css.map",
     "static/js/2.702bb801.chunk.js.LICENSE.txt": "//the1kaku.github.io/csgosite/static/js/2.702bb801.chunk.js.LICENSE.txt",
     "static/media/G2ESL-Pro-League453x255-min.6e300c47.jpg": "//the1kaku.github.io/csgosite/static/media/G2ESL-Pro-League453x255-min.6e300c47.jpg",
-    "static/media/app.scss": "//the1kaku.github.io/csgosite/static/media/background-min.220bd0a5.png",
+    "static/media/background-min.220bd0a5.png": "//the1kaku.github.io/csgosite/static/media/background-min.220bd0a5.png",
     "static/media/cs_go_old453x254-min.eb409a98.jpg": "//the1kaku.github.io/csgosite/static/media/cs_go_old453x254-min.eb409a98.jpg",
     "static/media/csgo-esl-tournaments1156x650-min.cf478e45.png": "//the1kaku.github.io/csgosite/static/media/csgo-esl-tournaments1156x650-min.cf478e45.png",
     "static/media/dust2_map428x428-min.0a3cb1f8.jpg": "//the1kaku.github.io/csgosite/static/media/dust2_map428x428-min.0a3cb1f8.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.ccb2863f.js",
     "static/js/2.702bb801.chunk.js",
-    "static/css/main.18d8ca95.chunk.css",
-    "static/js/main.ad6af49f.chunk.js"
+    "static/css/main.140e0265.chunk.css",
+    "static/js/main.38752a15.chunk.js"
   ]
 }
