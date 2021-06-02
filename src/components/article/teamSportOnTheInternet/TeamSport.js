@@ -1,10 +1,10 @@
 import React from 'react';
 import './teamsport.scss';
-import Mirage from './imgs/mirage_a_site965x543.jpg';
-import GlobalElite from './imgs/global_elite478x250.jpg';
-import DustMap from './imgs/dust2_map428x428.jpg';
-import ElitSerien from './imgs/svenska_elit_serien428x428.jpg'
-import NinjasInPyjamas from './imgs/nip1156x650.jpg';
+import Mirage from '../../../img/mirage_a_site965x543-min.jpg';
+import GlobalElite from '../../../img/global_elite478x250-min.jpg';
+import DustMap from '../../../img/dust2_map428x428-min.jpg';
+import ElitSerien from '../../../img/svenska_elit_serien428x428-min.jpg'
+import NinjasInPyjamas from '../../../img/nip1156x650-min.jpg';
 
 import ExplainedText from '../explainedText/ExplainedText';
 

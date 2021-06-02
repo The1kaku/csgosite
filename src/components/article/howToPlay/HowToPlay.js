@@ -1,8 +1,8 @@
 import React from 'react';
 import './howtoplay.scss';
-import TeamSelect from './imgs/team_select1156x650.jpg';
-import EslProLeague from './imgs/G2ESL-Pro-League453x255.jpg';
-import CsgoOld from './imgs/cs_go_old453x254.jpg';
+import TeamSelect from '../../../img/team_select1156x650-min.jpg';
+import EslProLeague from '../../../img/G2ESL-Pro-League453x255-min.jpg';
+import CsgoOld from '../../../img/cs_go_old453x254-min.jpg';
 
 import ExplainedText from '../explainedText/ExplainedText';
 

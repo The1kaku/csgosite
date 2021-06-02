@@ -1,8 +1,8 @@
 import React from 'react';
 import './reallife.scss';
-import Guns from './imgs/guns527x388.png';
-import Ranks from './imgs/ranks407x407.jpg';
-import EslTournament from './imgs/csgo-esl-tournaments1156x650.png'
+import Guns from '../../../img/guns527x388-min.png';
+import Ranks from '../../../img/ranks407x407-min.jpg';
+import EslTournament from '../../../img/csgo-esl-tournaments1156x650-min.png'
 import ExplainedText from '../explainedText/ExplainedText';
 
 const RealLife = () => {
