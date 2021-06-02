@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "//the1kaku.github.io/csgosite/static/css/main.7dcf5445.chunk.css",
+    "main.js": "//the1kaku.github.io/csgosite/static/js/main.bed620db.chunk.js",
+    "main.js.map": "//the1kaku.github.io/csgosite/static/js/main.bed620db.chunk.js.map",
+    "runtime-main.js": "//the1kaku.github.io/csgosite/static/js/runtime-main.ccb2863f.js",
+    "runtime-main.js.map": "//the1kaku.github.io/csgosite/static/js/runtime-main.ccb2863f.js.map",
+    "static/js/2.702bb801.chunk.js": "//the1kaku.github.io/csgosite/static/js/2.702bb801.chunk.js",
+    "static/js/2.702bb801.chunk.js.map": "//the1kaku.github.io/csgosite/static/js/2.702bb801.chunk.js.map",
+    "static/js/3.98e7ef38.chunk.js": "//the1kaku.github.io/csgosite/static/js/3.98e7ef38.chunk.js",
+    "static/js/3.98e7ef38.chunk.js.map": "//the1kaku.github.io/csgosite/static/js/3.98e7ef38.chunk.js.map",
+    "index.html": "//the1kaku.github.io/csgosite/index.html",
+    "static/css/main.7dcf5445.chunk.css.map": "//the1kaku.github.io/csgosite/static/css/main.7dcf5445.chunk.css.map",
+    "static/js/2.702bb801.chunk.js.LICENSE.txt": "//the1kaku.github.io/csgosite/static/js/2.702bb801.chunk.js.LICENSE.txt",
+    "static/media/G2ESL-Pro-League453x255.5121dcff.jpg": "//the1kaku.github.io/csgosite/static/media/G2ESL-Pro-League453x255.5121dcff.jpg",
+    "static/media/app.scss": "//the1kaku.github.io/csgosite/static/media/background.edf8327e.png",
+    "static/media/cs_go_old453x254.ff665a1d.jpg": "//the1kaku.github.io/csgosite/static/media/cs_go_old453x254.ff665a1d.jpg",
+    "static/media/csgo-esl-tournaments1156x650.ccdd0ba9.png": "//the1kaku.github.io/csgosite/static/media/csgo-esl-tournaments1156x650.ccdd0ba9.png",
+    "static/media/dust2_map428x428.f330f252.jpg": "//the1kaku.github.io/csgosite/static/media/dust2_map428x428.f330f252.jpg",
+    "static/media/global_elite478x250.0049f7dd.jpg": "//the1kaku.github.io/csgosite/static/media/global_elite478x250.0049f7dd.jpg",
+    "static/media/guns527x388.63c79b2a.png": "//the1kaku.github.io/csgosite/static/media/guns527x388.63c79b2a.png",
+    "static/media/mirage_a_site965x543.e929bcea.jpg": "//the1kaku.github.io/csgosite/static/media/mirage_a_site965x543.e929bcea.jpg",
+    "static/media/nip1156x650.ad776510.jpg": "//the1kaku.github.io/csgosite/static/media/nip1156x650.ad776510.jpg",
+    "static/media/ranks407x407.eeeea038.jpg": "//the1kaku.github.io/csgosite/static/media/ranks407x407.eeeea038.jpg",
+    "static/media/svenska_elit_serien428x428.d74fa89f.jpg": "//the1kaku.github.io/csgosite/static/media/svenska_elit_serien428x428.d74fa89f.jpg",
+    "static/media/team_select1156x650.7cac5930.jpg": "//the1kaku.github.io/csgosite/static/media/team_select1156x650.7cac5930.jpg",
+    "static/media/title_image1156x650.fb84be11.jpg": "//the1kaku.github.io/csgosite/static/media/title_image1156x650.fb84be11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccb2863f.js",
+    "static/js/2.702bb801.chunk.js",
+    "static/css/main.7dcf5445.chunk.css",
+    "static/js/main.bed620db.chunk.js"
+  ]
+}
