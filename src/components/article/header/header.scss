@@ -1,0 +1,21 @@
+@import '../../../scss/colours';
+@import '../../../scss/typography';
+@import '../../../scss/measurments';
+
+#Header {
+    z-index: 0;
+    position: relative;
+    h1 {
+        text-align: center;
+        span {
+            color: $colours_primary;
+        }
+    }
+    position: relative;
+    & > span {
+        right: 0;
+        bottom: calc(Min(#{$content-width}, 100vw)*9/16 + 120px);
+        position: absolute;
+        color: $colours_gray_dark;
+    }
+}

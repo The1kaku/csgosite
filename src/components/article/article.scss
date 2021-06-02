@@ -1,0 +1,27 @@
+@import '../../scss/colours';
+@import '../../scss/measurments';
+
+#Article {
+    padding-top: 90px;
+    width: Min(#{$content-width}, 100vw);
+    margin-left: calc(#{$desktop-navigation-width}/2);
+    background: $colours_white;
+    box-shadow: 0 45px 99px rgba($color: #000000, $alpha: 0.48);
+}
+
+.section {
+    margin: 0 auto 75px auto;
+    width: Min($content-inner-width, 90vw);
+    & > img {
+        width: Min(#{$content-width}, 100vw);
+        margin: 75px calc(50% - Min(#{$content-width}, 100vw)/2);
+    }
+}
+
+.explainedWord {
+    color: red;
+}
+
+
+
+// FIXA MED JAVASCRIPT ATT LÄGGA IN SPANS I ALLA TEXTER!!!!!!!!

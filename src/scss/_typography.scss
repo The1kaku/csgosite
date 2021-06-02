@@ -1,0 +1,53 @@
+@import 'colours';
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+::selection {
+    color: $colours_white;
+    background-color: $colours_secondary;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+h1 {
+    color: $colours_secondary;
+    font-size: Min(70px, 10vw);
+    line-height: 90/75;
+}
+
+h2 {
+    color: $colours_secondary;
+    font-size: Min(40px, 7.3vw);
+    line-height: 48/40;
+}
+
+p, li {
+    margin: 0 0 2em 0;
+    font-size: Min(25px, 4.5vw);
+    line-height: 1.5;
+    letter-spacing: 1px;
+    color: $colours_black;
+}
+
+li a {
+    font-size: Min(25px, 5.5vw);
+}
+
+a {
+    color: $colours_secondary;
+    &:hover {
+        color: $colours_secondary_light;
+    }
+    &:focus {
+        outline: none;
+        box-shadow: 0 0 0 5px $colours_white, 0 0 0 7px $colours_secondary_dark;
+        color: $colours_secondary_dark;
+    }
+    &:active {
+        color: $colours_secondary_dark;
+    }
+}

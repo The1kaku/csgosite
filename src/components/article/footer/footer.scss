@@ -1,0 +1,15 @@
+@import '../../../scss/colours';
+
+#Footer {
+    margin-top: 140px;
+    margin-bottom: 0;
+    span {
+        font-size: Min(23px, 2.5vw);
+        padding-bottom: .25em;
+        color: $colours_gray_dark;
+        opacity: .5;
+        text-align: center;
+        width: 100%;
+        display: block;
+    }
+}

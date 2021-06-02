@@ -1,0 +1,45 @@
+@import '../../../scss/measurments';
+@import '../../../scss/colours';
+
+$-explanation-max-width: 350px;
+
+@media only screen and (min-width: #{$content-width + 0.5 * $-explanation-max-width}) {
+    .explanationWrapper {
+        margin-left: .5ch;
+        position: relative;
+        display: inline-block;
+        cursor: default;
+    
+        .explanation {
+            display: inline-block;
+            position: absolute;
+            z-index: 100;
+        
+            left: 50%;
+            top: 100%;
+        
+            max-width: $-explanation-max-width;
+            width: max-content;
+            padding: .75em 1.5ch; 
+            
+            background: $colours_secondary_dark;
+            color: $colours_white;
+            font-style: italic;
+            
+            transform: scale(0,0.8) translate(-50%, -20%);
+            transform-origin: left;
+            transition-property: transform;
+            transition: 200ms ease-in-out;
+            cursor: text;
+        }
+        .explanationTrigger{
+            color: $colours_secondary;
+        }
+        &:hover .explanation {
+            transition: all 250ms ease-in-out;
+            transform: scale(1,1) translate(-50%, 0);
+        }
+    }
+}
+
+
