@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/csgosite/static/css/main.66168b59.chunk.css",
+    "main.css": "/csgosite/static/css/main.ad10bca8.chunk.css",
     "main.js": "/csgosite/static/js/main.38752a15.chunk.js",
     "main.js.map": "/csgosite/static/js/main.38752a15.chunk.js.map",
     "runtime-main.js": "/csgosite/static/js/runtime-main.9a1c843d.js",
@@ -10,7 +10,7 @@
     "static/js/3.98e7ef38.chunk.js": "/csgosite/static/js/3.98e7ef38.chunk.js",
     "static/js/3.98e7ef38.chunk.js.map": "/csgosite/static/js/3.98e7ef38.chunk.js.map",
     "index.html": "/csgosite/index.html",
-    "static/css/main.66168b59.chunk.css.map": "/csgosite/static/css/main.66168b59.chunk.css.map",
+    "static/css/main.ad10bca8.chunk.css.map": "/csgosite/static/css/main.ad10bca8.chunk.css.map",
     "static/js/2.702bb801.chunk.js.LICENSE.txt": "/csgosite/static/js/2.702bb801.chunk.js.LICENSE.txt",
     "static/media/G2ESL-Pro-League453x255-min.6e300c47.jpg": "/csgosite/static/media/G2ESL-Pro-League453x255-min.6e300c47.jpg",
     "static/media/background-min.220bd0a5.png": "/csgosite/static/media/background-min.220bd0a5.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.9a1c843d.js",
     "static/js/2.702bb801.chunk.js",
-    "static/css/main.66168b59.chunk.css",
+    "static/css/main.ad10bca8.chunk.css",
     "static/js/main.38752a15.chunk.js"
   ]
 }
